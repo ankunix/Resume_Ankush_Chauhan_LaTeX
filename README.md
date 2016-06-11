@@ -13,11 +13,11 @@ Proffessional Resume created in LaTeX.
 Dillinger uses a number of open source projects to work properly:
 
 * [LaTeX] - A document preparation system.
-* [Ankush.Tech] - awesome web-based text editor
+* [Ankush.Tech] - My personal Website.
 
 ### Generate PDF
  Creating a PDF document using [PDFLATEX](http://theoval.cmp.uea.ac.uk/~nlct/latex/pdfdoc/pdfdoc/pdfdoc.html)
-
+ 
 License
 ----
 
